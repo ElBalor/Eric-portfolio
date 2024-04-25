@@ -12,7 +12,7 @@ const Modal = ({ isOpen, onClose, children }) => {
     >
       <div className="flex items-center justify-center min-h-screen">
         <div className="relative p-4 w-full max-w-md h-full md:h-auto">
-          <div className="relative bg-white/ rounded-lg dark:bg-gradient-to-br dark:from-blue-800/35 shadow-2xl dark:to-cyan-700 dark:custom-lg">
+          <div className="relative bg-white/ rounded-lg dark:bg-gradient-to-br dark:from-blue-800 shadow-2xl dark:to-cyan-700 dark:custom-lg">
             {children}
             <button
               className="absolute top-3 right-2.5 rounded-full bg-gray-700  text-gray-400 hover:bg-gray-200 hover:text-gray-900  text-sm p-1.5 ml-auto inline-flex items-center"
