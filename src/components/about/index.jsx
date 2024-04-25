@@ -19,15 +19,12 @@ const AboutDetails = () => {
             Angel of Enchantment
         </h2>
         <p className='font-light text-xs sm:text-sm md:text-base'>
-        My journey in web development is powered by an array of mystical
-            tools and languages, with JavaScript casting the core of my
-            enchantments. I wield frameworks like React.js and Next.js with
-            precision, crafting seamless portals (websites) that connect realms
-            (users) across the digital universe. The ancient arts of the
-            Jamstack empower me to create fast, secure, and dynamic experiences,
-            while my design skills ensure every creation is not only functional
-            but visually captivating. Join me as I continue to explore new
-            spells and technologies to shape the future of the web.
+        My odyssey in Software Development is fueled by a diverse arsenal of magical tools and languages, with JavaScript and Python serving as the foundation of my digital incantations. I masterfully wield frameworks like React.js, Next.js, Tailwind, and Three.js to craft enchanting portals (websites), mobile applications, AI-driven wonders (Machine Learning), and Web 3 web apps that bridge the gap between users across the vast digital expanse.
+
+With the ancient wisdom of the Jamstack at my disposal, I conjure fast, secure, and dynamic experiences that leave a lasting impression. My design prowess ensures that every creation is not only functional but also visually stunning, weaving together form and function in perfect harmony.
+
+Join me on my quest to explore new technologies and spells, as I continue to shape the future of the web and push the boundaries of what is possible in the digital realm
+            
         </p>
         </ItemLayout>
         </Tilt>
