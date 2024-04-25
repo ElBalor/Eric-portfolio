@@ -11,6 +11,8 @@ import EarthMoon from "@/components/models/Earth";
 import Krypton from "@/components/models/Krypton";
 import { motion } from "framer-motion";
 import { slideIn } from "../../utils/motion";
+import TextModal from "@/components/TextModal";
+import PictureModal from "@/components/PictureModal";
 
 const EarthModel = dynamic(() => import("@/components/models/EarthModel"), {
   ssr: false,
@@ -81,6 +83,8 @@ export default function Home() {
           <EarthModel />
         </RenderModel> */}
       </motion.div>
+      <TextModal />
+      <PictureModal />
     </main>
   );
 }
