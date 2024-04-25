@@ -36,7 +36,7 @@ const Modal = ({ onClose, toggle }) => {
 
 const Sound = () => {
   const audioRef = useRef(null);
-  const [isPlaying, setIsPlaying] = useState(true);
+  const [isPlaying, setIsPlaying] = useState(false);
   const [showModal, setShowModal] = useState(false);
 
   const handleFirstUserInteraction = () => {
