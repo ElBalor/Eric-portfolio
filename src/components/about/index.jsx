@@ -19,7 +19,7 @@ const AboutDetails = () => {
             Angel of Enchantment
         </h2>
         <p className='font-light text-xs sm:text-sm md:text-base'>
-        My odyssey in Software Development is fueled by a diverse arsenal of magical tools and languages, with JavaScript and Python serving as the foundation of my digital incantations. I masterfully wield frameworks like React.js, Next.js, Tailwind, and Three.js to craft enchanting portals (websites), mobile applications, AI-driven wonders (Machine Learning), and Web 3 web apps that bridge the gap between users across the vast digital expanse.
+        My odyssey in Software Development is fueled by a diverse arsenal of magical tools and languages, with JavaScript and Python serving as the foundation of my digital incantations. I masterfully wield frameworks and libraries like React.js, Next.js, Tailwind, and Three.js, ReactNative, Anaconda, Tensorflow, Solidity to craft enchanting portals (websites), mobile applications, AI-driven wonders (Machine Learning), and Web 3 web apps that bridge the gap between users across the vast digital expanse.
 
 With the ancient wisdom of the Jamstack at my disposal, I conjure fast, secure, and dynamic experiences that leave a lasting impression. My design prowess ensures that every creation is not only functional but also visually stunning, weaving together form and function in perfect harmony.
 
